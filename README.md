@@ -25,7 +25,7 @@ An AI learning product. In active build, private for now.
 
 ### How I work
 
-Self-taught, no bootcamp and no CS degree. I learned the craft from the people who
+Self-taught. I learned the craft from the people who
 obsess over it, and I pressure-test everything before I trust it. AI-native day to
 day, in a type-then-verify loop. I trust the work, not the demo.
 
