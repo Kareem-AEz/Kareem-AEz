@@ -10,7 +10,7 @@ tween, and I can build either.
 ### What I'm building
 
 **[Nitro Studio](https://nitrostudio.co)**
-The first real product I'm shipping, a studio site for a client. The launch page is
+The first real product I'm shipping, a studio site I designed and built. The launch page is
 live, the full site is in progress. Small on purpose and built around motion, with
 numbers to back the feel: Real Experience Score of 100 on live traffic, 64ms
 interaction latency, sub-second LCP, zero layout shift.
