@@ -7,7 +7,7 @@ Three years in motion design before I moved into engineering, and it still runs 
 ### What I'm building
 
 **[Nitro Studio](https://nitrostudio.co)**
-Live. A studio site for the AI artist Mohamed Sayed, his design direction and my build. The image viewer and video player are built, not installed, because opening an image and playing a video are the only two moments that matter on a portfolio. He uploads whatever the export dialog gives him and the site handles it before a visitor sees it, and every project gets a link preview typeset on its own artwork. Next.js, React, TypeScript, Payload, MongoDB, Tailwind, Motion, PostHog, Resend, Cloudflare R2.
+Live. A studio site for a Graphic designer and AI artist. The image viewer and video player are built, not installed, because opening an image and playing a video are the only two moments that matter on a portfolio. He uploads whatever the export dialog gives him and the site handles it before a visitor sees it, and every project gets a link preview typeset on its own artwork. Next.js, React, TypeScript, Payload, MongoDB, Tailwind, Motion, PostHog, Resend, Cloudflare R2.
 
 **[convit](https://github.com/Kareem-AEz/convit)**
 Conventional commits by AI, done right. It runs fully local so your code never leaves your machine, and it pre-analyzes the diff with weighted voting so the message describes the change instead of saying `fix: update stuff`.
